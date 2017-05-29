@@ -91,3 +91,4 @@ ENV/
 # Downloaded Data
 notebooks/simple-examples.tgz
 notebooks/simple-examples
+notebooks/logs
